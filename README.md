@@ -1,3 +1,3 @@
 # Lineage_OS-for-a-b-devices-GSI
-these images a from andy yan bulids only for a/b devices and treble support
-NOTE if you want a stable one that not buggy i recommed the lineageOS GSI andoird 14
+Theses are the best image i have found they yet stable 
+aslo Shout out to Mister-Ztr and Andy Yan
