@@ -1,3 +1,1 @@
-# Lineage_OS-for-a-b-devices-GSI
-Theses are the best image i have found they yet stable 
-also Shout out to Mister-Ztr and Andy Yan
+These are the best stable image i found from lineageos GSI only for treble supprot and a/b devices
